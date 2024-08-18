@@ -27,6 +27,7 @@ Hello! I'm Raif Salauddin Mondal, a passionate Computer Science student with a k
 **Tools:** Notion, Trello, Git, Github, Stack Overflow
 
 ### 🏆 Achievements
+Ahh, need to get the certificates. When I am satisfied with the total count I have, will post all of them.
 
 <!-- Add your achievements here -->
 
