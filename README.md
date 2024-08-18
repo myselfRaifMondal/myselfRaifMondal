@@ -22,7 +22,7 @@ Hello! I'm Raif Salauddin Mondal, a passionate Computer Science student with a k
 
 **Programming Languages:** Python, Java, C, Kotlin
 
-**Frameworks:** PyTorch, Tensorflow, Scikit-learn, Matplotlib, Seaborn, YOLO
+**Frameworks:** PyTorch, Tensorflow, Scikit-learn, Matplotlib, Seaborn, YOLO, Ultralytics
 
 **Tools:** Notion, Trello, Git, Github, Stack Overflow
 
