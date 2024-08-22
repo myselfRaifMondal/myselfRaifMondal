@@ -24,7 +24,7 @@ Hello! I'm Raif Salauddin Mondal, a passionate Computer Science student with a k
 
 **Frameworks:** PyTorch, Tensorflow, Scikit-learn, Matplotlib, Seaborn, YOLO, Ultralytics
 
-**Tools:** Notion, Trello, Git, Github, Stack Overflow
+**Tools:** Notion, Trello, Git, Github
 
 ### 🏆 Achievements
 Ahh, need to get the certificates. When I am satisfied with the total count I have, will post all of them.
