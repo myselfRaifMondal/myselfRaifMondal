@@ -132,8 +132,9 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 
 ## 📅 Contribution Calendar
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=myselfRaifMondal&theme=dracula)
-
+<p align="center">
+  <img src="https://github.com/myselfRaifMondal/myselfRaifMondal/raw/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
 
 ---
 
