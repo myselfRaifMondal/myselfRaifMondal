@@ -193,8 +193,8 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 </p>
 
 ---
-
 ## 📌 Pinned Repositories
+
 <p align="center">
   <a href="https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=radical" />
@@ -211,7 +211,12 @@ Here are some of my most recent and interesting projects (see [all projects](htt
   <a href="https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=radical" />
   </a>
+  <a href="https://github.com/myselfRaifMondal/myselfRaifMondal">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=myselfRaifMondal&theme=radical" />
+  </a>
 </p>
+
+> See more at [my full GitHub profile](https://github.com/myselfRaifMondal?tab=repositories)
   <b>“The best way to predict the future is to create it.”</b><br>
   <i>— Abraham Lincoln</i>
 </p>
