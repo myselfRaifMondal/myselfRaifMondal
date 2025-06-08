@@ -195,13 +195,23 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 ---
 
 ## 📌 Pinned Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEOvision&theme=radical)](https://github.com/myselfRaifMondal/NEOvision)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=another-cool-repo&theme=radical)](https://github.com/myselfRaifMondal/another-cool-repo)
-
----
-
-<p align="center" style="font-size: 1.2em;">
+<p align="center">
+  <a href="https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Fundamental-Financial-Data-Scrapper&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/Trade-Base">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Trade-Base&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/FIFA-22-Dashboard">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FIFA-22-Dashboard&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=radical" />
+  </a>
+</p>
   <b>“The best way to predict the future is to create it.”</b><br>
   <i>— Abraham Lincoln</i>
 </p>
