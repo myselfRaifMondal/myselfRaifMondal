@@ -130,6 +130,14 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 
 ---
 
+## 📅 Contribution Calendar
+
+<p align="center">
+  <img src="/Users/raifsalauddinmondal/Documents/GitHub/myselfRaifMondal/github-user-contribution.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
 ## 🎬 Latest YouTube Video
 
 <!-- YOUTUBE:START -->
