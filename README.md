@@ -138,37 +138,12 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 
 ---
 
-## 🎬 Latest YouTube Video
-
-<!-- YOUTUBE:START -->
-<!-- Replace this section with your own video or use GitHub Actions to auto-update -->
-<p align="center">
-  <a href="https://youtube.com/@yourchannel">
-    <img width="350" src="https://img.youtube.com/vi/dQw4w9WgXcQ/hqdefault.jpg" alt="Latest Video"/>
-    <br />
-    <b>Check out my latest video!</b>
-  </a>
-</p>
-<!-- YOUTUBE:END -->
-
----
-
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- Replace these with your blog links or set up GitHub Actions to auto-update -->
 - [Coming soon: My first blog post!]
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🤩 Fun Zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%230AF795&textColor=%23000000" alt="Joke" />
-  <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
-</p>
 
 ---
 
