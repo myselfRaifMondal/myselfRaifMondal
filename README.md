@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF795&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+Raif+Mondal!;AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Quantitative+Research+Enthusiast+%F0%9F%92%B0;Problem+Solver+%7C+Open+Source+Fan+%7C+Lifelong+Learner;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF795&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+Raif+Mondal!;AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Quantitative+Research+Enthusiast+%F0%9F%92%B0;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
