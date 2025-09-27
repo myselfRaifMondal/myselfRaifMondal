@@ -130,23 +130,6 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 
 ---
 
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="github-user-contribution.svg" alt="Contribution Snake Animation" />
-</p>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace these with your blog links or set up GitHub Actions to auto-update -->
-- [Coming soon: My first blog post!]
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🌎 Connect with Me
 
 <p align="center">
