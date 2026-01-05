@@ -1,6 +1,6 @@
 <!-- Animated Typing SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF795&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+Raif+Mondal!;AI%2FML+Engineer+in+the+Making+%F0%9F%A4%96;Quantitative+Research+Enthusiast+%F0%9F%92%B0;Welcome+to+my+GitHub+Universe+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0AF795&center=true&vCenter=true&width=750&lines=Hi+there+%F0%9F%91%8B+I'm+Raif+Mondal!;Founder+%26+Builder+%F0%9F%9A%80;Building+IndiQuant+%26+Playmaker+%F0%9F%92%B9;AI%2FML+Engineer+%7C+Quant+Systems+Architect+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -25,85 +25,112 @@
 <details>
 <summary>Click to expand!</summary>
 
-- 🎓 **Student & AIML Intern** passionate about Artificial Intelligence, Machine Learning, and Quantitative Analysis.
-- 💡 **Problem Solver:** I thrive on tackling tough challenges and creating impactful solutions.
-- 🧠 **Tech Stack:** Python, Java, C++, C, DSA, Deep/ML, Computer Vision... and always learning more!
-- 📈 **Quant Side:** Fascinated by systematic trading, quantitative research, and the intersection of AI with financial markets.
-- 🔭 **Always Growing:** Recently focused on Reinforcement Learning, Generative AI, System Design, and Quantitative Strategies.
-- 🤔 Sometimes I call myself “stupid” because I’m always thinking about problems and solutions!
-- 🧩 Fun fact: I’m obsessed with patterns, puzzles, algorithms, and market dynamics!
-- 🏆 Open Source & hackathon enthusiast
-- 🌱 Lifelong learner, always exploring new frontiers.
+- 🚀 **Founder & Builder** creating the future of quantitative finance in India
+- 💼 **Current Ventures:**
+  - **IndiQuant** — Crowdsourced intelligence platform for Indian Equity Markets (NSE/BSE)
+  - **Playmaker** — High-Frequency Trading firm building ultra-low latency execution infrastructure
+- 🧠 **Tech Stack:** Python, C++, Java, R, TensorFlow, PyTorch, Real-time Data Processing, System Architecture
+- 📈 **Domain Expertise:** Systematic trading, quantitative research, ML/AI for financial markets, market microstructure
+- 🔭 **Focus Areas:** Production ML pipelines, HFT infrastructure, alternative data, risk management systems
+- 💡 **Philosophy:** Build robust, scalable systems that operate autonomously in production. Every solution serves measurable business objectives.
+- 🏆 **Background:** AI/ML Engineer, Quantitative Systems Architect, Open Source contributor
+- 🌱 Constantly pushing boundaries in RL, Generative AI, System Design, and Quantitative Strategies
 
 </details>
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Current Ventures
 
-Here are some of my most recent and interesting projects (see [all projects](https://github.com/myselfRaifMondal?tab=repositories)):
+### **IndiQuant** — Democratizing Quantitative Intelligence
+Building a crowdsourced intelligence platform that brings institutional-grade quantitative research and market analytics to Indian equity markets. Combining collective intelligence with advanced ML models to generate alpha in emerging markets.
 
-- [**NEO-Earth-Close-Approaches-ML**](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)  
-  _Interactive dashboard for visualizing Near-Earth Objects using NASA data and Machine Learning predictions._
+**What we're building:**
+- Systematic trading signals for NSE/BSE
+- Real-time market microstructure analysis
+- Sentiment aggregation and alternative data integration
+- Quantitative research infrastructure for retail and institutional investors
+
+### **Playmaker** — High-Frequency Trading Infrastructure
+Developing next-generation HFT systems with focus on Indian markets and cross-border arbitrage. Engineering ultra-low latency execution engines, co-location strategies, and ML-driven alpha generation.
+
+**Core Technology:**
+- Custom execution engines with sub-millisecond latency
+- Tick-level data processing and pattern recognition
+- Advanced risk management and portfolio optimization
+- Co-location and direct market access strategies
+
+---
+
+## 🏅 Featured Projects
+
+Here are some of my most impactful projects (see [all projects](https://github.com/myselfRaifMondal?tab=repositories)):
 
 - [**Fundamental-Financial-Data-Scrapper**](https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper)  
-  _A Python tool to scrape fundamental financial data for quantitative analysis and research._
+  _Production-ready data acquisition system for fundamental analysis. Powers IndiQuant's data infrastructure._
 
 - [**Trade-Base**](https://github.com/myselfRaifMondal/Trade-Base)  
-  _A base project for systematic trading research and strategy prototyping._
-
-- [**FIFA-22-Dashboard**](https://github.com/myselfRaifMondal/FIFA-22-Dashboard)  
-  _A sports data dashboard for FIFA 22 statistics analysis._
+  _Modular framework for systematic trading research with backtesting engine and risk management modules._
 
 - [**FinNews-Sentiment-Analysis**](https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis)  
-  _A sentiment analysis tool for financial news, tailored for traders & investors._
+  _NLP-powered sentiment analysis for financial news. Real-time signal generation for trading systems._
 
 - [**JP-Morgan-Quant-Projects**](https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects)  
-  _A collection of projects from the JPMorgan Chase Quantitative Research Job Simulation._
+  _Quantitative research implementations: pricing models, risk analytics, and portfolio optimization._
+
+- [**NEO-Earth-Close-Approaches-ML**](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)  
+  _ML application demonstrating scalable data processing and predictive modeling techniques._
 
 > To see more, visit my [full GitHub profile](https://github.com/myselfRaifMondal?tab=repositories)!
+
 ---
 
 ## 💹 Quantitative Trading & Research
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,matlab,postgresql,sqlite,excel&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,r,matlab,postgresql,sqlite&perline=7" />
 </p>
 
-- 📊 Exploring systematic trading, alpha research, and backtesting frameworks.
-- 🤖 Interested in using ML/DL for predictive analytics and signal generation.
-- 🏦 Always learning about markets, risk, and data-driven investing!
-- 💬 Ask me about: quant research, trading bots, financial data, statistical arbitrage, or market microstructure!
+- 📊 Building systematic trading systems, alpha research frameworks, and backtesting infrastructure
+- 🤖 Leveraging ML/DL for predictive analytics, signal generation, and automated execution
+- 🏦 Deep expertise in market microstructure, order flow dynamics, and liquidity provision
+- 💬 Let's discuss: quantitative strategies, HFT infrastructure, alternative data, statistical arbitrage, or fintech architecture
 
 ---
 
 ## 🏅 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,tensorflow,pytorch,opencv,git,github,linux,html,css&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,tensorflow,pytorch,opencv,git,github,linux,docker,aws&perline=8" />
 </p>
+
+**Core Technologies:** Python, C++, Java, R  
+**ML/AI:** TensorFlow, PyTorch, scikit-learn, XGBoost, Reinforcement Learning  
+**Quant/Finance:** pandas, NumPy, TA-Lib, Zipline, Backtrader  
+**Data Engineering:** PostgreSQL, SQLite, Redis, Apache Kafka, Time Series DBs  
+**Infrastructure:** Linux, Docker, AWS, Low-latency systems  
+**Specializations:** Computer Vision, NLP, Market Microstructure, System Design
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Building & Learning
 
 <p>
-  <img src="https://img.shields.io/badge/-Reinforcement%20Learning-blueviolet?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-Generative%20AI-ff69b4?style=for-the-badge">
-  <img src="https://img.shields.io/badge/-System%20Design-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-HFT%20Infrastructure-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Production%20ML%20Systems-ff69b4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/-Distributed%20Systems-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/-Quantitative%20Finance-1abc9c?style=for-the-badge">
 </p>
 
 ---
 
-## 💬 Ask Me About
+## 💬 Let's Talk About
 
-- AI/ML & Deep Learning
-- Data Structures & Algorithms
-- Computer Vision
-- Quantitative Research & Trading
-- Open Source contributions
-- Hackathons & project ideation
+- **Startup Building:** Fintech ventures, product development, scaling technical teams
+- **Quantitative Finance:** Systematic trading, alpha generation, market microstructure
+- **AI/ML in Finance:** Predictive models, RL for execution, alternative data
+- **Infrastructure:** HFT systems, low-latency architecture, production ML pipelines
+- **Collaboration:** Open source, research partnerships, fintech innovation
 
 ---
 
@@ -142,7 +169,7 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 
 ---
 
-## ☕ Support Me
+## ☕ Support My Work
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/myselfRaifMondal">
@@ -151,32 +178,35 @@ Here are some of my most recent and interesting projects (see [all projects](htt
 </p>
 
 ---
+
 ## 📌 Pinned Repositories
 
 <p align="center">
-  <a href="https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=radical" />
-  </a>
   <a href="https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Fundamental-Financial-Data-Scrapper&theme=radical" />
   </a>
   <a href="https://github.com/myselfRaifMondal/Trade-Base">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Trade-Base&theme=radical" />
   </a>
-  <a href="https://github.com/myselfRaifMondal/FIFA-22-Dashboard">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FIFA-22-Dashboard&theme=radical" />
-  </a>
   <a href="https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=JP-Morgan-Quant-Projects&theme=radical" />
+  </a>
+  <a href="https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=radical" />
   </a>
   <a href="https://github.com/myselfRaifMondal/myselfRaifMondal">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=myselfRaifMondal&theme=radical" />
   </a>
 </p>
 
-> See more at [my full GitHub profile](https://github.com/myselfRaifMondal?tab=repositories)
-  <b>“The best way to predict the future is to create it.”</b><br>
-  <i>— Abraham Lincoln</i>
+---
+
+<p align="center">
+  <b>"In markets as in engineering, edge comes from doing what others cannot or will not do."</b><br>
+  <i>— Building the future, one commit at a time.</i>
 </p>
 
 <!-- Add your own custom widgets, gifs, or highlights here! -->
