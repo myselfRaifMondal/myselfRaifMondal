@@ -194,23 +194,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myselfRaifMondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td width="50%" align="center">
-  <img src="https://streak-stats.demolab.com/?user=myselfRaifMondal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00D9FF" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myselfRaifMondal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" alt="Contribution Graph" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfRaifMondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=css,html,jupyter%20notebook&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
@@ -248,63 +232,6 @@ ML application demonstrating scalable data processing and predictive modeling te
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-link.com)
-
-</div>
-
----
-
-## ☕ Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/myselfRaifMondal)
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-[![Fundamental Financial Data Scrapper](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Fundamental-Financial-Data-Scrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper)
-
-</td>
-<td width="50%" align="center">
-
-[![Trade-Base](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Trade-Base&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/Trade-Base)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![FinNews Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis)
-
-</td>
-<td width="50%" align="center">
-
-[![JP Morgan Quant Projects](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=JP-Morgan-Quant-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects)
-
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-
-[![NEO Earth Close Approaches ML](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)
-
-</td>
-<td width="50%" align="center">
-
-[![myselfRaifMondal](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=myselfRaifMondal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/myselfRaifMondal)
-
-</td>
-</tr>
-</table>
 
 </div>
 
