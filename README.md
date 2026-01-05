@@ -193,13 +193,23 @@ ML application demonstrating scalable data processing and predictive modeling te
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=myselfRaifMondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=myselfRaifMondal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myselfRaifMondal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff" />
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=myselfRaifMondal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+  <img src="https://streak-stats.demolab.com/?user=myselfRaifMondal&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=00D9FF" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfRaifMondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=css,html" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=myselfRaifMondal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF" alt="Contribution Graph" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myselfRaifMondal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&hide=css,html,jupyter%20notebook&langs_count=8" alt="Top Languages" />
 
 </div>
 
@@ -209,7 +219,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=myselfRaifMondal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=myselfRaifMondal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=Stars,Commits,Repositories,Followers,PullRequest,Issues)
 
 </div>
 
@@ -257,29 +267,44 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 <div align="center">
 
-<a href="https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Fundamental-Financial-Data-Scrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/myselfRaifMondal/Trade-Base">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Trade-Base&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+[![Fundamental Financial Data Scrapper](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Fundamental-Financial-Data-Scrapper&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper)
 
-<a href="https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+</td>
+<td width="50%" align="center">
 
-<a href="https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=JP-Morgan-Quant-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+[![Trade-Base](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=Trade-Base&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/Trade-Base)
 
-<a href="https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
-<a href="https://github.com/myselfRaifMondal/myselfRaifMondal">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=myselfRaifMondal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff" />
-</a>
+[![FinNews Sentiment Analysis](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=FinNews-Sentiment-Analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis)
+
+</td>
+<td width="50%" align="center">
+
+[![JP Morgan Quant Projects](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=JP-Morgan-Quant-Projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+[![NEO Earth Close Approaches ML](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=NEO-Earth-Close-Approaches-ML&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)
+
+</td>
+<td width="50%" align="center">
+
+[![myselfRaifMondal](https://github-readme-stats.vercel.app/api/pin/?username=myselfRaifMondal&repo=myselfRaifMondal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff)](https://github.com/myselfRaifMondal/myselfRaifMondal)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -300,7 +325,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 ---
 
 <div align="center">
-  <img src="https://contrib.rocks/image?repo=myselfRaifMondal/myselfRaifMondal" />
+  <img src="https://contrib.rocks/image?repo=myselfRaifMondal/myselfRaifMondal" alt="Contributors" />
   
   **Thank you for visiting!** ⭐
 </div>
