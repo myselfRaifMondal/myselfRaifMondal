@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 name: Raif Mondal
@@ -33,22 +33,22 @@ philosophy: "Building robust, scalable systems that operate autonomously in prod
 
 <br>
 
-- 🚀 **Founder & Builder** creating the future of quantitative finance in India
-- 💼 **Current Ventures:**
+- **Founder & Builder** creating the future of quantitative finance in India
+- **Current Ventures:**
   - **IndiQuant** — Crowdsourced intelligence platform for Indian Equity Markets (NSE/BSE)
   - **Playmaker** — High-Frequency Trading firm building ultra-low latency execution infrastructure
-- 🧠 **Tech Stack:** Python, C++, Java, R, TensorFlow, PyTorch, Real-time Data Processing, System Architecture
-- 📈 **Domain Expertise:** Systematic trading, quantitative research, ML/AI for financial markets, market microstructure
-- 🔭 **Focus Areas:** Production ML pipelines, HFT infrastructure, alternative data, risk management systems
-- 💡 **Philosophy:** Build robust, scalable systems that operate autonomously in production. Every solution serves measurable business objectives.
-- 🏆 **Background:** AI/ML Engineer, Quantitative Systems Architect, Open Source contributor
-- 🌱 Constantly pushing boundaries in RL, Generative AI, System Design, and Quantitative Strategies
+- **Tech Stack:** Python, C++, Java, R, TensorFlow, PyTorch, Real-time Data Processing, System Architecture
+- **Domain Expertise:** Systematic trading, quantitative research, ML/AI for financial markets, market microstructure
+- **Focus Areas:** Production ML pipelines, HFT infrastructure, alternative data, risk management systems
+- **Philosophy:** Build robust, scalable systems that operate autonomously in production. Every solution serves measurable business objectives.
+- **Background:** AI/ML Engineer, Quantitative Systems Architect, Open Source contributor
+- Constantly pushing boundaries in RL, Generative AI, System Design, and Quantitative Strategies
 
 </details>
 
 ---
 
-## 💼 Current Ventures
+## Current Ventures
 
 <table>
 <tr>
@@ -60,10 +60,10 @@ philosophy: "Building robust, scalable systems that operate autonomously in prod
 Building a crowdsourced intelligence platform that brings institutional-grade quantitative research and market analytics to Indian equity markets.
 
 **Core Features:**
-- 📈 Systematic trading signals for NSE/BSE
-- 🔬 Real-time market microstructure analysis
-- 💭 Sentiment aggregation & alternative data
-- 🎯 Quantitative research infrastructure
+- Systematic trading signals for NSE/BSE
+- Real-time market microstructure analysis
+- Sentiment aggregation & alternative data
+- Quantitative research infrastructure
 
 </td>
 <td width="50%">
@@ -74,10 +74,10 @@ Building a crowdsourced intelligence platform that brings institutional-grade qu
 Developing next-generation HFT systems with focus on Indian markets and cross-border arbitrage.
 
 **Technology Stack:**
-- ⚡ Sub-millisecond execution engines
-- 📊 Tick-level data processing
-- 🛡️ Advanced risk management
-- 🎯 Co-location & direct market access
+- Sub-millisecond execution engines
+- Tick-level data processing
+- Advanced risk management
+- Co-location & direct market access
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Developing next-generation HFT systems with focus on Indian markets and cross-bo
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Developing next-generation HFT systems with focus on Indian markets and cross-bo
 
 ---
 
-## 🔥 Currently Building & Learning
+## Currently Building & Learning
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Developing next-generation HFT systems with focus on Indian markets and cross-bo
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -139,7 +139,7 @@ Developing next-generation HFT systems with focus on Indian markets and cross-bo
 <tr>
 <td width="50%" valign="top">
 
-### [📊 Fundamental Financial Data Scrapper](https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper)
+### [Fundamental Financial Data Scrapper](https://github.com/myselfRaifMondal/Fundamental-Financial-Data-Scrapper)
 Production-ready data acquisition system for fundamental analysis. Powers IndiQuant's data infrastructure.
 
 **Tech:** Python • Web Scraping • Data Pipeline
@@ -147,7 +147,7 @@ Production-ready data acquisition system for fundamental analysis. Powers IndiQu
 </td>
 <td width="50%" valign="top">
 
-### [📈 Trade-Base](https://github.com/myselfRaifMondal/Trade-Base)
+### [Trade-Base](https://github.com/myselfRaifMondal/Trade-Base)
 Modular framework for systematic trading research with backtesting engine and risk management modules.
 
 **Tech:** Python • Backtesting • Risk Management
@@ -157,7 +157,7 @@ Modular framework for systematic trading research with backtesting engine and ri
 <tr>
 <td width="50%" valign="top">
 
-### [📰 FinNews Sentiment Analysis](https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis)
+### [FinNews Sentiment Analysis](https://github.com/myselfRaifMondal/FinNews-Sentiment-Analysis)
 NLP-powered sentiment analysis for financial news. Real-time signal generation for trading systems.
 
 **Tech:** NLP • PyTorch • Real-time Processing
@@ -165,7 +165,7 @@ NLP-powered sentiment analysis for financial news. Real-time signal generation f
 </td>
 <td width="50%" valign="top">
 
-### [🏦 JP Morgan Quant Projects](https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects)
+### [JP Morgan Quant Projects](https://github.com/myselfRaifMondal/JP-Morgan-Quant-Projects)
 Quantitative research implementations: pricing models, risk analytics, and portfolio optimization.
 
 **Tech:** Python • Quantitative Finance • Risk Analytics
@@ -175,7 +175,7 @@ Quantitative research implementations: pricing models, risk analytics, and portf
 <tr>
 <td colspan="2" align="center">
 
-### [🌌 NEO Earth Close Approaches ML](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)
+### [NEO Earth Close Approaches ML](https://github.com/myselfRaifMondal/NEO-Earth-Close-Approaches-ML)
 ML application demonstrating scalable data processing and predictive modeling techniques.
 
 **Tech:** Machine Learning • Data Processing • Predictive Analytics
@@ -190,7 +190,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -199,7 +199,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <div align="center">
   
@@ -209,7 +209,7 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 ---
 
-## 💬 Let's Talk About
+## Let's Talk About
 
 <div align="center">
 
@@ -223,13 +223,13 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raifmondal)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ador.mov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ad0rable_san)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-link.com)
 
@@ -239,11 +239,11 @@ ML application demonstrating scalable data processing and predictive modeling te
 
 <div align="center">
 
-### 💭 Quote of the Day
+### Quote of the Day
 
 *"In markets as in engineering, edge comes from doing what others cannot or will not do."*
 
-**Building the future, one commit at a time** 🚀
+**Building the future, one commit at a time** 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 
@@ -254,5 +254,5 @@ ML application demonstrating scalable data processing and predictive modeling te
 <div align="center">
   <img src="https://contrib.rocks/image?repo=myselfRaifMondal/myselfRaifMondal" alt="Contributors" />
   
-  **Thank you for visiting!** ⭐
+  **Thank you for visiting!** 
 </div>
