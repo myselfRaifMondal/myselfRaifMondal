@@ -54,7 +54,7 @@ philosophy: "Building robust, scalable systems that operate autonomously in prod
 <tr>
 <td width="50%">
 
-### [IndiQuant](https://www.indiquant-by-cawm.github.io/Frontend/)
+### [IndiQuant](https://indiquant-by-cawm.github.io/Frontend/)
 **Democratizing Quantitative Intelligence**
 
 Building a crowdsourced intelligence platform that brings institutional-grade quantitative research and market analytics to Indian equity markets.
@@ -68,7 +68,7 @@ Building a crowdsourced intelligence platform that brings institutional-grade qu
 </td>
 <td width="50%">
 
-### [Playmaker](https://www.playmaker-by-cawm.github.io/frontend/)
+### [Playmaker](https://playmaker-by-cawm.github.io/frontend/)
 **High-Frequency Trading Infrastructure**
 
 Developing next-generation HFT systems with focus on Indian markets and cross-border arbitrage.
