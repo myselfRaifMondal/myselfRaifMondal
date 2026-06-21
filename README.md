@@ -18,15 +18,6 @@
 
 </div>
 
-```text
-┌────────────────────────────── QUANT DESK ──────────────────────────────┐
-│  RESEARCH       SIGNALS       PORTFOLIO       EXECUTION       RISK     │
-│     ●──────────────●──────────────●──────────────●──────────────●      │
-│  distributed    adaptive       systematic     low-latency    real-time │
-│  intelligence   ensemble       allocation     market making  controls  │
-└─────────────────────────────────────────────────────────────────────────┘
-```
-
 ## ◈ Investment Thesis
 
 > The next generation of market edge will not come from isolated models alone. It will come from systems that aggregate distributed insight, measure predictive skill, adapt capital allocation, and execute with discipline.
@@ -56,9 +47,9 @@ My work is focused on two parts of that thesis:
 
 A quantitative investment and collective-intelligence venture focused on Indian markets.
 
-`₹50 Cr AUM` · `Signal Aggregation` · `Attribution`
+`QUANTITATIVE RESEARCH` · `INDIAN MARKETS` · `PRIVATE BETA`
 
-Crowdsourced research, anonymous contribution architecture, adaptive ensembling, and performance-weighted intelligence designed around Indian market microstructure.
+Researching how collective intelligence and quantitative methods can improve market decision-making. Product, strategy, and operating details remain private.
 
 <p align="right"><a href="https://indiquantresearch.in/"><strong>VISIT INDIQUANT →</strong></a></p>
 
@@ -66,7 +57,7 @@ Crowdsourced research, anonymous contribution architecture, adaptive ensembling,
 <td width="50%" valign="top">
 
 <h3 align="center">PLAYMAKER</h3>
-<p align="center"><strong>High-Frequency Liquidity Infrastructure</strong></p>
+<p align="center"><strong>Quantitative Market Infrastructure</strong></p>
 <p align="center">
   <a href="https://playmaker-by-cawm.github.io/frontend/">
     <img src="https://img.shields.io/badge/MVP-20C9A6?style=flat-square&labelColor=0B1726" alt="MVP">
@@ -75,11 +66,11 @@ Crowdsourced research, anonymous contribution architecture, adaptive ensembling,
 
 **Founder & CEO**
 
-A high-frequency market-making venture for decentralized crypto exchanges.
+A quantitative engineering venture exploring digital-asset market infrastructure.
 
-`DEX` · `Market Making` · `Low Latency`
+`MARKET MICROSTRUCTURE` · `SYSTEMS ENGINEERING` · `MVP`
 
-Automated liquidity provision, inventory-aware pricing, real-time risk controls, and low-latency market-data and execution systems.
+Currently at MVP stage. Technical architecture, execution logic, and operating details remain private.
 
 <p align="right"><a href="https://playmaker-by-cawm.github.io/frontend/"><strong>EXPLORE PLAYMAKER →</strong></a></p>
 
@@ -89,69 +80,75 @@ Automated liquidity provision, inventory-aware pricing, real-time risk controls,
 
 ---
 
-## ◈ Quant Systems
+## ◈ Quant Lab
 
-### IndiQuant · Collective Alpha Engine
+> Illustrative visualizations only — synthetic data, generic models, and no company methodology or performance information.
 
-```mermaid
-flowchart LR
-    A1["Contributor α₁"] --> V["Signal Validation"]
-    A2["Contributor α₂"] --> V
-    A3["Contributor αₙ"] --> V
-    D["Market + Alternative Data"] --> V
-    V --> S["Skill Attribution"]
-    S --> W["Adaptive Weighting"]
-    W --> E["Ensemble Signal"]
-    E --> P["Portfolio Construction"]
-    P --> R["Risk Engine"]
-    R --> X["Market Execution"]
-    X -. "realized performance" .-> S
+### Monte Carlo · Simulated Price Paths
 
-    classDef source fill:#0B1726,stroke:#20C9A6,color:#FFFFFF;
-    classDef engine fill:#102A3A,stroke:#20C9A6,color:#FFFFFF;
-    classDef output fill:#20C9A6,stroke:#0B1726,color:#07111F;
-    class A1,A2,A3,D source;
-    class V,S,W,E,P,R engine;
-    class X output;
-```
-
-The ensemble is designed around a simple principle:
-
-$$
-\hat{\alpha}_{t} = \sum_{i=1}^{N} w_{i,t}\,\alpha_{i,t},
-\qquad
-w_{i,t} \propto f(\text{predictive skill}_{i,\,1:t})
-$$
-
-### PlayMaker · HFT Market-Making Loop
-
-```mermaid
-sequenceDiagram
-    participant DEX as DEX Order Book
-    participant MD as Market Data
-    participant MM as Pricing Engine
-    participant RK as Risk Engine
-    participant EX as Execution
-
-    DEX->>MD: ticks + liquidity updates
-    MD->>MM: normalized book state
-    MM->>RK: bid/ask quotes + inventory
-    RK-->>MM: approved size and spread
-    MM->>EX: place / amend / cancel
-    EX->>DEX: signed orders
-    DEX-->>EX: fills
-    EX-->>RK: position + PnL update
-    RK-->>MM: inventory skew
+```text
+Price
+ 145 ┤                                             ╭──── Path 01
+ 135 ┤                                  ╭──────────╯ ╭── Path 02
+ 125 ┤                         ╭────────╯      ╭─────╯
+ 115 ┤              ╭──────────╯    ╭──────────╯  ╭── Path 03
+ 105 ┤     ╭────────╯  ╭────────────╯  ╭──────────╯
+ 100 ┼─────┼────────────┼───────────────┼──────────────
+  95 ┤     ╰────╮       ╰──────╮     ╭─╯
+  85 ┤          ╰──────────────╰─────╯        Path 04
+     └──── t₀ ─────── t₁ ─────── t₂ ─────── t₃ ────▶ Time
 ```
 
 $$
-\text{quote spread}
+S_{t+\Delta t}
 =
-\text{base spread}
-+ \lambda_{\sigma}\sigma_t
-+ \lambda_{I}\lvert I_t\rvert
-+ \lambda_{L}L_t
+S_t \exp\left[
+\left(\mu-\frac{1}{2}\sigma^2\right)\Delta t
++\sigma\sqrt{\Delta t}\,Z
+\right],
+\qquad Z\sim\mathcal{N}(0,1)
 $$
+
+### Cross-Asset Correlation · Illustrative Heatmap
+
+| ρ | Equity | Rates | Gold | Crypto | Volatility |
+|:--|:--:|:--:|:--:|:--:|:--:|
+| **Equity** | 🟩 1.00 | 🟨 −0.18 | 🟨 0.12 | 🟧 0.46 | 🟥 −0.71 |
+| **Rates** | 🟨 −0.18 | 🟩 1.00 | 🟧 0.41 | ⬜ 0.04 | 🟨 0.20 |
+| **Gold** | 🟨 0.12 | 🟧 0.41 | 🟩 1.00 | 🟨 0.17 | ⬜ −0.06 |
+| **Crypto** | 🟧 0.46 | ⬜ 0.04 | 🟨 0.17 | 🟩 1.00 | 🟧 −0.39 |
+| **Volatility** | 🟥 −0.71 | 🟨 0.20 | ⬜ −0.06 | 🟧 −0.39 | 🟩 1.00 |
+
+### Limit Order Book · Synthetic Snapshot
+
+```text
+                  SELL / ASK
+  100.04  ████████████████████  1,240
+  100.03  ██████████████          890
+  100.02  █████████               610
+  100.01  █████                   340
+          ─────── MID 100.005 ───────
+  100.00  ██████                  410
+   99.99  █████████               625
+   99.98  █████████████          840
+   99.97  ██████████████████   1,110
+                   BUY / BID
+```
+
+### Portfolio Geometry · Risk vs Return
+
+```text
+Expected
+Return  ▲                                  ● Growth
+        │                            ●
+        │                       ●          Efficient frontier
+        │                  ●  ╭───────────────
+        │             ●  ╭────╯
+        │          ╭─────╯
+        │       ●──╯
+        │    ● Minimum variance
+        └────────────────────────────────────────▶ Volatility
+```
 
 ---
 
