@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Raif Salauddin Mondal. Quantitative research · Market microstructure · High-performance systems. A cherry blossom branch sways while petals fall.">
+  <title>Raif Salauddin Mondal. Quantitative research · Market microstructure · High-performance systems. A cherry blossom branch sways while petals fall.</title>
+  <style>
+    text{font-kerning:normal}
+    .n{font-family:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,'Times New Roman',serif;font-size:58px;fill:#FBE0E6;letter-spacing:.5px}
+    .t{font-family:Georgia,'Iowan Old Style','Palatino Linotype',Palatino,'Times New Roman',serif;font-style:italic;font-size:20px;fill:#F7B6C4}
+    .s{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:14px;fill:#EE8FA5;letter-spacing:.3px}
+    .sway{transform-box:view-box;transform-origin:1210px 28px;animation:sway 7s ease-in-out infinite alternate}
+    @keyframes sway{from{transform:rotate(-1.2deg)}to{transform:rotate(1.6deg)}}
+    .f{animation-timing-function:linear;animation-iteration-count:infinite}
+    .f>path{transform-box:fill-box;transform-origin:center;animation:spin linear infinite}
+    @keyframes spin{0%{transform:rotate(0) scaleX(1)}50%{transform:rotate(180deg) scaleX(.35)}100%{transform:rotate(360deg) scaleX(1)}}
+    @keyframes fa{0%{transform:translate(0,-360px);opacity:0}8%{opacity:.95}50%{transform:translate(-40px,0)}92%{opacity:.95}100%{transform:translate(-90px,360px);opacity:0}}
+    @keyframes fb{0%{transform:translate(0,-360px);opacity:0}8%{opacity:.9}50%{transform:translate(30px,0)}92%{opacity:.9}100%{transform:translate(-50px,360px);opacity:0}}
+    @keyframes fc{0%{transform:translate(0,-360px);opacity:0}8%{opacity:.85}50%{transform:translate(-70px,0)}92%{opacity:.85}100%{transform:translate(-150px,360px);opacity:0}}
+    .p0{animation-name:fa;animation-duration:16.6s;animation-delay:-1.6s}.p0>path{animation-duration:5.3s;animation-direction:normal}
+    .p1{animation-name:fb;animation-duration:10.6s;animation-delay:-1.0s}.p1>path{animation-duration:4.7s;animation-direction:reverse}
+    .p2{animation-name:fc;animation-duration:14.6s;animation-delay:-5.8s}.p2>path{animation-duration:6.9s;animation-direction:normal}
+    .p3{animation-name:fa;animation-duration:11.2s;animation-delay:-1.3s}.p3>path{animation-duration:4.2s;animation-direction:reverse}
+    .p4{animation-name:fb;animation-duration:15.1s;animation-delay:-5.6s}.p4>path{animation-duration:5.2s;animation-direction:normal}
+    .p5{animation-name:fc;animation-duration:16.2s;animation-delay:-7.6s}.p5>path{animation-duration:6.7s;animation-direction:reverse}
+    .p6{animation-name:fa;animation-duration:10.7s;animation-delay:-3.2s}.p6>path{animation-duration:5.0s;animation-direction:normal}
+    .p7{animation-name:fb;animation-duration:10.9s;animation-delay:-4.6s}.p7>path{animation-duration:6.0s;animation-direction:reverse}
+    .p8{animation-name:fc;animation-duration:16.1s;animation-delay:-9.2s}.p8>path{animation-duration:6.5s;animation-direction:normal}
+    .p9{animation-name:fa;animation-duration:10.6s;animation-delay:-1.0s}.p9>path{animation-duration:4.1s;animation-direction:reverse}
+    .p10{animation-name:fb;animation-duration:12.5s;animation-delay:-7.2s}.p10>path{animation-duration:5.7s;animation-direction:normal}
+    .p11{animation-name:fc;animation-duration:10.2s;animation-delay:-4.7s}.p11>path{animation-duration:3.7s;animation-direction:reverse}
+    .p12{animation-name:fa;animation-duration:15.9s;animation-delay:-6.3s}.p12>path{animation-duration:6.7s;animation-direction:normal}
+    .p13{animation-name:fb;animation-duration:12.2s;animation-delay:-1.7s}.p13>path{animation-duration:4.7s;animation-direction:reverse}
+    .p14{animation-name:fc;animation-duration:17.7s;animation-delay:-2.7s}.p14>path{animation-duration:3.7s;animation-direction:normal}
+    .p15{animation-name:fa;animation-duration:12.1s;animation-delay:-0.0s}.p15>path{animation-duration:4.7s;animation-direction:reverse}
+    .p16{animation-name:fb;animation-duration:13.7s;animation-delay:-11.9s}.p16>path{animation-duration:6.8s;animation-direction:normal}
+    .p17{animation-name:fc;animation-duration:13.2s;animation-delay:-6.3s}.p17>path{animation-duration:4.6s;animation-direction:reverse}
+    .p18{animation-name:fa;animation-duration:12.7s;animation-delay:-0.7s}.p18>path{animation-duration:3.0s;animation-direction:normal}
+    .p19{animation-name:fb;animation-duration:10.6s;animation-delay:-2.2s}.p19>path{animation-duration:4.5s;animation-direction:reverse}
+    .p20{animation-name:fc;animation-duration:11.0s;animation-delay:-9.3s}.p20>path{animation-duration:7.0s;animation-direction:normal}
+    .p21{animation-name:fa;animation-duration:16.0s;animation-delay:-11.8s}.p21>path{animation-duration:4.9s;animation-direction:reverse}
+    .p22{animation-name:fb;animation-duration:17.6s;animation-delay:-6.4s}.p22>path{animation-duration:5.8s;animation-direction:normal}
+    .p23{animation-name:fc;animation-duration:15.6s;animation-delay:-4.1s}.p23>path{animation-duration:4.5s;animation-direction:reverse}
+    .p24{animation-name:fa;animation-duration:16.2s;animation-delay:-5.4s}.p24>path{animation-duration:3.9s;animation-direction:normal}
+    @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+  </style>
+  <defs>
+    <clipPath id="card"><rect width="1200" height="340" rx="22"/></clipPath>
+    <radialGradient id="glow" cx="0.82" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#B0112B" stop-opacity="0.6"/>
+      <stop offset="1" stop-color="#6B0A1C" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0.55" stop-color="#2A0A10" stop-opacity="0"/>
+      <stop offset="1" stop-color="#2A0A10" stop-opacity="0.55"/>
+    </linearGradient>
+    <g id="bl">
+      <path d="M0 0C-7-5-9-15-4-21L0-18L4-21C9-15 7-5 0 0Z" transform="rotate(0)"/><path d="M0 0C-7-5-9-15-4-21L0-18L4-21C9-15 7-5 0 0Z" transform="rotate(72)"/><path d="M0 0C-7-5-9-15-4-21L0-18L4-21C9-15 7-5 0 0Z" transform="rotate(144)"/><path d="M0 0C-7-5-9-15-4-21L0-18L4-21C9-15 7-5 0 0Z" transform="rotate(216)"/><path d="M0 0C-7-5-9-15-4-21L0-18L4-21C9-15 7-5 0 0Z" transform="rotate(288)"/>
+      <circle r="4.2" fill="#6B0A1C"/>
+      <circle cx="0" cy="-6.5" r="1.1" fill="#E35B78"/><circle cx="6.2" cy="-2" r="1.1" fill="#E35B78"/><circle cx="3.8" cy="5.3" r="1.1" fill="#E35B78"/><circle cx="-3.8" cy="5.3" r="1.1" fill="#E35B78"/><circle cx="-6.2" cy="-2" r="1.1" fill="#E35B78"/>
+    </g>
+    <g id="bud">
+      <ellipse rx="4.5" ry="7" cy="-6" fill="#E35B78"/>
+      <path d="M-4-2Q0 4 4-2L2 2L0 0L-2 2Z" fill="#2A0A10"/>
+    </g>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="#6B0A1C"/>
+    <rect width="1200" height="340" fill="url(#glow)"/>
+    <rect width="1200" height="340" fill="url(#shade)"/>
+    <g transform="translate(287 51) scale(0.91)"><g class="f p0"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(1142 73) scale(0.60)"><g class="f p1"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#FBE0E6"/></g></g>
+    <g transform="translate(1107 42) scale(0.67)"><g class="f p2"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(93 292) scale(0.71)"><g class="f p3"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#E35B78"/></g></g>
+    <g transform="translate(1103 61) scale(0.87)"><g class="f p4"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#B0112B"/></g></g>
+    <g transform="translate(786 20) scale(0.66)"><g class="f p5"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#FBE0E6"/></g></g>
+    <g transform="translate(313 84) scale(0.65)"><g class="f p6"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F9CDD7"/></g></g>
+    <g transform="translate(904 153) scale(0.88)"><g class="f p7"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(824 166) scale(0.57)"><g class="f p8"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(280 236) scale(0.88)"><g class="f p9"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#FBE0E6"/></g></g>
+    <g transform="translate(1053 22) scale(0.95)"><g class="f p10"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#E35B78"/></g></g>
+    <g transform="translate(947 244) scale(1.04)"><g class="f p11"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#EE8FA5"/></g></g>
+    <g transform="translate(142 20) scale(0.97)"><g class="f p12"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F9CDD7"/></g></g>
+    <g transform="translate(969 57) scale(0.77)"><g class="f p13"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#B0112B"/></g></g>
+    <g transform="translate(991 240) scale(1.09)"><g class="f p14"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#FBE0E6"/></g></g>
+    <g class="sway">
+      <path d="M1215 26 Q1120 40 1050 82 Q1000 112 960 138" fill="none" stroke="#2A0A10" stroke-width="14" stroke-linecap="round"/><path d="M960 138 Q920 166 880 190 Q866 199 848 204" fill="none" stroke="#2A0A10" stroke-width="9" stroke-linecap="round"/><path d="M1062 74 Q1040 46 1012 20" fill="none" stroke="#2A0A10" stroke-width="7" stroke-linecap="round"/><path d="M1012 20 Q1000 8 984 4" fill="none" stroke="#2A0A10" stroke-width="4" stroke-linecap="round"/><path d="M1128 46 Q1146 82 1150 124" fill="none" stroke="#2A0A10" stroke-width="6" stroke-linecap="round"/><path d="M1150 124 Q1152 146 1164 166" fill="none" stroke="#2A0A10" stroke-width="3.5" stroke-linecap="round"/><path d="M962 138 Q978 176 984 214" fill="none" stroke="#2A0A10" stroke-width="6" stroke-linecap="round"/><path d="M984 214 Q988 240 1004 262" fill="none" stroke="#2A0A10" stroke-width="3.5" stroke-linecap="round"/><path d="M896 178 Q878 150 852 132" fill="none" stroke="#2A0A10" stroke-width="5" stroke-linecap="round"/><path d="M1010 104 Q1040 132 1050 170" fill="none" stroke="#2A0A10" stroke-width="4.5" stroke-linecap="round"/>
+      <use href="#bud" transform="translate(1120 34) rotate(25)"/><use href="#bud" transform="translate(1024 52) rotate(-30)"/><use href="#bud" transform="translate(1170 186) rotate(15)"/><use href="#bud" transform="translate(998 240) rotate(-10)"/><use href="#bud" transform="translate(902 190) rotate(40)"/><use href="#bud" transform="translate(840 112) rotate(-35)"/><use href="#bud" transform="translate(1064 190) rotate(10)"/><use href="#bud" transform="translate(950 110) rotate(-20)"/>
+      <use href="#bl" transform="translate(1090 60) rotate(10) scale(1.25)" fill="#F7B6C4"/><use href="#bl" transform="translate(1040 92) rotate(40) scale(1.1)" fill="#F9CDD7"/><use href="#bl" transform="translate(1004 22) rotate(5) scale(1.0)" fill="#EE8FA5"/><use href="#bl" transform="translate(980 6) rotate(30) scale(0.85)" fill="#F7B6C4"/><use href="#bl" transform="translate(1148 96) rotate(20) scale(1.05)" fill="#FBE0E6"/><use href="#bl" transform="translate(1160 158) rotate(55) scale(0.9)" fill="#F7B6C4"/><use href="#bl" transform="translate(1136 132) rotate(12) scale(0.8)" fill="#B0112B"/><use href="#bl" transform="translate(972 160) rotate(25) scale(1.15)" fill="#F9CDD7"/><use href="#bl" transform="translate(990 222) rotate(50) scale(1.0)" fill="#F7B6C4"/><use href="#bl" transform="translate(1006 258) rotate(8) scale(0.85)" fill="#EE8FA5"/><use href="#bl" transform="translate(928 158) rotate(60) scale(1.05)" fill="#FBE0E6"/><use href="#bl" transform="translate(874 186) rotate(15) scale(1.0)" fill="#F7B6C4"/><use href="#bl" transform="translate(850 130) rotate(35) scale(0.95)" fill="#B0112B"/><use href="#bl" transform="translate(868 148) rotate(70) scale(0.75)" fill="#F9CDD7"/><use href="#bl" transform="translate(850 202) rotate(44) scale(0.9)" fill="#EE8FA5"/><use href="#bl" transform="translate(1046 166) rotate(28) scale(0.95)" fill="#F9CDD7"/><use href="#bl" transform="translate(1028 128) rotate(64) scale(0.8)" fill="#B0112B"/><use href="#bl" transform="translate(1188 36) rotate(42) scale(1.0)" fill="#EE8FA5"/><use href="#bl" transform="translate(940 128) rotate(5) scale(0.7)" fill="#F7B6C4"/>
+    </g>
+    <text class="n" x="72" y="150">Raif Salauddin Mondal</text>
+    <rect x="74" y="170" width="64" height="3" rx="1.5" fill="#E35B78"/>
+    <text class="t" x="72" y="214">I build systems that turn market questions into measurable answers.</text>
+    <text class="s" x="72" y="256">Quantitative research · Market microstructure · High-performance systems</text>
+    <g transform="translate(222 79) scale(0.82)"><g class="f p15"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F9CDD7"/></g></g>
+    <g transform="translate(915 193) scale(1.07)"><g class="f p16"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(1046 190) scale(0.77)"><g class="f p17"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#E35B78"/></g></g>
+    <g transform="translate(193 335) scale(0.79)"><g class="f p18"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(824 34) scale(0.75)"><g class="f p19"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(1026 325) scale(0.88)"><g class="f p20"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#FBE0E6"/></g></g>
+    <g transform="translate(386 165) scale(0.60)"><g class="f p21"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(1051 176) scale(0.66)"><g class="f p22"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#B0112B"/></g></g>
+    <g transform="translate(1144 258) scale(0.71)"><g class="f p23"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#F7B6C4"/></g></g>
+    <g transform="translate(177 262) scale(0.84)"><g class="f p24"><path d="M0-7L-2.5-10C-8-8-8 2 0 10C8 2 8-8 2.5-10Z" fill="#E35B78"/></g></g>
+  </g>
+</svg>
